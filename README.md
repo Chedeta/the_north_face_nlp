@@ -10,7 +10,7 @@ Pour utiliser les techniques de clustering et de LSA, on utilise principalement 
 
 L'étude se déroule ainsi autour de trois axes :
 <ul>
-  <li>Le pré-processing des données, avec les librairies `spacy`et `re`</li>
+  <li>Le pré-processing des données, avec les librairies <code>spacy</code> et `re`</li>
 </ul>
 ## 2. Objectifs
 
