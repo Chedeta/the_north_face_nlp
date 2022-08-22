@@ -17,8 +17,10 @@ L'étude se déroule ainsi autour de trois axes :
 </ul>
 
 ## 2. Aperçu
-Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°0 :
+Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°0 du dataset :
 <p align='center'><img src="https://i.ibb.co/2sFZ5DW/1.png"></p>
+
+Le reste de l'étude et détaillée dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
 ## 3. Crédits
 Le projet a été effectué en collaboration avec Hélène Font, Henri Puntous et Nicolas Bridelance.
