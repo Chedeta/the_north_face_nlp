@@ -16,7 +16,7 @@ L'étude s'articule ainsi autour de trois axes :
     Pour chaque produit, une note par topic est associée, plus celle-ci se rapproche de 1, mieux le topic explique le produit.</li>
 </ul>
 
-[^1]: Understanding DBSCAN
+[^tesr]: Understanding DBSCAN
 ## 2. Aperçu
 Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°6 :
 <p align='center'>
