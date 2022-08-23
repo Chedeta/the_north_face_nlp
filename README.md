@@ -11,7 +11,7 @@ Pour utiliser les techniques de clustering et de LSA, on utilise principalement 
 L'étude s'articule ainsi autour de trois axes :
 <ul>
   <li>Le pré-processing des données, avec les librairies <code>spacy</code> et <code>re</code></li>
-  <li>L'utilisation de <code>DBSCAN</code>, qui permet de faire du clustering sur les données, afin de rassembler les produits avec une description similaire</li>
+  <li>L'utilisation de <code>DBSCAN</code>[^1], qui permet de faire du clustering sur les données, afin de rassembler les produits avec une description similaire</li>
   <li>Méthode LSA via <code>TruncatedSVD</code> de <code>scikit-learn</code>, ou <i>topic-modeling</i>, qui créé des topics pertinents en rapport avec la description des produits.
     Pour chaque produit, une note par topic est associée, plus celle-ci se rapproche de 1, mieux le topic explique le produit.</li>
 </ul>
@@ -33,4 +33,4 @@ Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the
 Le projet a été effectué en collaboration avec <a href='https://github.com/Bebock'>Hélène</a>, <a href=''>Henri</a> et <a href='https://github.com/NBridelance'>Nicolas</a>.
 
 ## 4. Références
-
+[^1] Understanding DBSCAN - <a href='https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80'>TowardsDataScience</a>
