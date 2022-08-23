@@ -21,6 +21,8 @@ Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramè
 <p align='center'>
   <img src="https://i.ibb.co/7rNFhyY/1.png" alt="1" border="0">
   <br/>
+</p>
+<p align='center'>
 <figure>
   <img src="https://i.ibb.co/PrxCYmj/2.png" alt="2" border="0">
   <figcaption>Sample des articles représentatifs du Cluster n°8</figcaption>
