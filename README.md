@@ -17,15 +17,15 @@ L'étude s'articule ainsi autour de trois axes :
 </ul>
 
 ## 2. Aperçu
-Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°8 :
+Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°6 :
 <p align='center'>
-  <img src="https://i.ibb.co/7rNFhyY/1.png" alt="1" border="0">
+  <img src="https://i.ibb.co/jfvKJDt/1.png" alt="1" border="0">
   <br/>
   <img src="https://i.ibb.co/PrxCYmj/2.png" alt="2" border="0">
-  <h5 align='center'>Sample de produits représentatifs du Cluster n°8</h5>
+  <h5 align='center'>Sample de produits représentatifs du Cluster n°6</h5>
 </p>
 
-Le cluster 8, par exemple, regroupe majoritairement des produits à base de laine ou des articles de montagne, ainsi si un utilisateur cherche un produit chaud pour la montagne, l'algorithme pourra proposer différents articles connexes à sa recherche.
+Le cluster 6, par exemple, regroupe majoritairement des produits à base de laine ou des articles de montagne, ainsi si un utilisateur cherche un produit chaud pour la montagne, l'algorithme pourra proposer différents articles connexes à sa recherche.
 
 Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
