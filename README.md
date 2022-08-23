@@ -22,7 +22,7 @@ Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramè
   <img src="https://i.ibb.co/7rNFhyY/1.png" alt="1" border="0">
   <br/>
   <img src="https://i.ibb.co/PrxCYmj/2.png" alt="2" border="0">
-  <p align='center' style='font-size:6px'>Sample de produits représentatifs du Cluster n°8</p>
+  <h5 align='center'>Sample de produits représentatifs du Cluster n°8</h5>
 </p>
 
 Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
