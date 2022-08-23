@@ -25,6 +25,8 @@ Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramè
   <h5 align='center'>Sample de produits représentatifs du Cluster n°8</h5>
 </p>
 
+Le cluster 8, par exemple, regroupe majoritairement des produits à base de laine ou des articles de montagne, ainsi si un utilisateur cherche un produit chaud pour la montagne, l'algorithme pourra proposer différents articles connexes à sa recherche.
+
 Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
 ## 3. Crédits
