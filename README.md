@@ -32,4 +32,4 @@ Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the
 ## 3. Crédits
 Le projet a été effectué en collaboration avec <a href='https://github.com/Bebock'>Hélène</a>, <a href=''>Henri</a> et <a href='https://github.com/NBridelance'>Nicolas</a>.
 
-[^1]:Understanding DBSCAN
+[^1]: Understanding DBSCAN
