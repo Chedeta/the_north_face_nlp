@@ -23,4 +23,4 @@ Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramè
 Le reste de l'étude et détaillée dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
 ## 3. Crédits
-Le projet a été effectué en collaboration avec Hélène Font, Henri Puntous et Nicolas Bridelance.
+Le projet a été effectué en collaboration avec <a href='https://github.com/Bebock'>Hélène</a>, <a href=''>Henri</a> et <a href='https://github.com/NBridelance'>Nicolas</a>.
