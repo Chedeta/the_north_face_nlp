@@ -32,5 +32,4 @@ Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the
 ## 3. Crédits
 Le projet a été effectué en collaboration avec <a href='https://github.com/Bebock'>Hélène</a>, <a href=''>Henri</a> et <a href='https://github.com/NBridelance'>Nicolas</a>.
 
-## 4. Références
-[^1]:Understanding DBSCAN - <a href='https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80'>TowardsDataScience</a>
+[^1]:Understanding DBSCAN
