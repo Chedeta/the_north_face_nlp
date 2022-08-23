@@ -8,7 +8,7 @@ Cliquez ici pour visionner la vidéo de présentation du sujet
 Les données fournies dans le dataset `sample-data.csv` sont des descriptifs produits. Chaque ligne contenant le nom du produit et une description de ce dernier. 
 Pour utiliser les techniques de clustering et de LSA, on utilise principalement le lemma d'un document, ce qui appelle à un nettoyage, ou *pré-processing*, des textes afin qu'ils soient compris et utilisés efficacement par les algorithmes.
 
-L'étude se déroule ainsi autour de trois axes :
+L'étude s'articule ainsi autour de trois axes :
 <ul>
   <li>Le pré-processing des données, avec les librairies <code>spacy</code> et <code>re</code></li>
   <li>L'utilisation de <code>DBSCAN</code>, qui permet de faire du clustering sur les données, afin de rassembler les produits avec une description similaire</li>
@@ -17,10 +17,13 @@ L'étude se déroule ainsi autour de trois axes :
 </ul>
 
 ## 2. Aperçu
-Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°0 du dataset :
-<p align='center'><img src="https://i.ibb.co/2sFZ5DW/1.png"></p>
+Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°6 :
+<p align='center'><img src="https://i.ibb.co/7rNFhyY/1.png" alt="1" border="0"><img src="https://i.ibb.co/PrxCYmj/2.png" alt="2" border="0"></p>
 
-Le reste de l'étude et détaillée dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
+Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
 ## 3. Crédits
 Le projet a été effectué en collaboration avec <a href='https://github.com/Bebock'>Hélène</a>, <a href=''>Henri</a> et <a href='https://github.com/NBridelance'>Nicolas</a>.
+
+## 4. Références
+
