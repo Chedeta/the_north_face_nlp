@@ -11,7 +11,7 @@ Pour utiliser les techniques de clustering et de LSA, on utilise principalement 
 L'étude s'articule ainsi autour de trois axes :
 <ul>
   <li>Le pré-processing des données, avec les librairies <code>spacy</code> et <code>re</code></li>
-  <li>L'utilisation de <sup>[1](#myfootnote1)<code>DBSCAN</code></sup>, qui permet de faire du clustering sur les données, afin de rassembler les produits avec une description similaire</li>
+  <li>L'utilisation de <code>DBSCAN</code> <sup>[1](#myfootnote1)</sup>, qui permet de faire du clustering sur les données, afin de rassembler les produits avec une description similaire</li>
   <li>Méthode LSA via <code>TruncatedSVD</code> de <code>scikit-learn</code>, ou <i>topic-modeling</i>, qui créé des topics pertinents en rapport avec la description des produits.
     Pour chaque produit, une note par topic est associée, plus celle-ci se rapproche de 1, mieux le topic explique le produit.</li>
 </ul>
