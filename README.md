@@ -2,7 +2,7 @@
 
 <p align='center'><img src='https://www.experience-outdoor.com/wp-content/uploads/2019/08/The-North-Face-marque-de-v%C3%AAtement-et-%C3%A9quipement-outdoor.jpg' width='200px'></p>
 
-Cliquez ici pour visionner la vidéo de présentation du sujet
+<a href='https://share.vidyard.com/watch/AuW29CHLDU62brd7RXnAJG?'>Cliquez ici pour visionner la vidéo de présentation du sujet</a>
 
 ## 1. Data Overview et objectifs
 Les données fournies dans le dataset `sample-data.csv` sont des descriptifs produits. Chaque ligne contenant le nom du produit et une description de ce dernier. 
